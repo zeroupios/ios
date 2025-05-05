@@ -1,0 +1,1 @@
+routes=[{path:'/',url:'./index.html',},{path:'/app/',url:'./pages/app.php',},{path:'/category/',url:'./pages/catApps.php',},{path:'(.*)',url:'./pages/404.html',},];
